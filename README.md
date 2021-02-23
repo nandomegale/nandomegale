@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 Tenho 26 anos, sou graduado em engenharia de computação e apaixonado por tecnologia.
-Sou um Front-End Developer :computer:
+<br/>Sou um Front-End Developer :computer:
 
  :blush: &nbsp; Atualmente estou procurando uma oportunidade de trabalho.
  <br/>  :rocket:  &nbsp;Estudando ReactJS com a **Rocketseat**.
