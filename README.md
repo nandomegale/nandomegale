@@ -4,7 +4,7 @@
 Tenho 28 anos, sou graduado em engenharia de computação e apaixonado por tecnologia.
 <br/>Sou um Front-End Developer :computer:
 
- :green_heart: Atualmente estou trabalhando como desenvolvedor na everis.
+ :green_heart: Atualmente estou trabalhando como desenvolvedor na NTTData.
  <br/>  :rocket: Sempre aprendendo novas tecnologias.
  <br/> :computer: Stack principal: HTML, CSS, GIT, JavaScript, Typescript e Angular.
  <br/> 💬 Curto tecnologia, games, animes, filmes, séries & academia.
